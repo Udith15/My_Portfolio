@@ -1,0 +1,10 @@
+.particles-container {
+  position: fixed;      /* Make it fixed to screen */
+  background-color: black;
+  top: 0;
+  left: 0;
+  width: 100vw;         /* Full viewport width */
+  height: 100vh;        /* Full viewport height */
+  z-index: -1;          /* Behind all other content */
+  pointer-events: none; /* Let mouse events pass through */
+}

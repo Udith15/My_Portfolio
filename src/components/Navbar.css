@@ -1,0 +1,15 @@
+.navbar{
+    color: white;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    list-style-type: none;
+    margin: 5px;
+    padding: 5px;
+}
+
+.navbar a:hover {
+    color: #b93737;
+}
